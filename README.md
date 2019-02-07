@@ -25,6 +25,7 @@ Seguimos os Gitflow, então existem os seguintes tipos de branchs:
 O seguinte workflow deve existir:
 
 1 - Crie a branch da sua feature a partir da branch `develop`
+
 2 - Ao terminar a funcionalidade, crie um pull request para a branch `develop` e marque um ou mais revisores (e se alguem te marcar, revise o quanto antes o PR pra não prender o projeto)
 
 Quando um conjunto de funcionalidades razoável tiver sido desenvolvido, um dos membros do squad abre um PR da `develop` para a `master`. Caso um bug seja encontrado após o merge, crie uma branch `hotfix` e solucione-o, abrindo depois um PR para a branch `master` e outro para a branch `develop`.
