@@ -1,4 +1,15 @@
 # Styleguide
+<p align="left">
+  <a href="https://github.com/jrmmendes/styleguide-squad-arthur/issues">
+    <img src="https://img.shields.io/github/issues/jrmmendes/styleguide-squad-arthur.svg?&colorB=D35F5F&style=flat-square" alt="Open Issues">
+  </a>
+  <a href="https://github.com/jrmmendes/styleguide-squad-arthur/pulls">
+    <img src="https://img.shields.io/github/issues-pr/jrmmendes/styleguide-squad-arthur.svg?style=flat-square" alt="Open Pull Requests">
+  </a>
+  <a href="https://github.com/jrmmendes/styleguide-squad-arthur/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/jrmmendes/styleguide-squad-arthur.svg?style=flat-square" alt="Contributors">
+  </a>
+</p>
 
 Todo projeto open source, por sua dimensão, segue um guia de estilos: um conjunto de conveções sobre como escrever código. Isso permite que, a longo prazo, seja possível manter a consistência e a qualidade do que é feito.
 
