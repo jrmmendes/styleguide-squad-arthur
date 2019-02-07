@@ -16,7 +16,7 @@ Todo projeto open source, por sua dimensão, segue um guia de estilos: um conjun
 Esse repositório contem diversos insights pra que nossos projetos possam usufruir dessas característica, em se tornarem mais consistentes :)
 
 # Branchs
-Seguimos os Gitflow, então existem os seguintes tipos de branchs:
+Seguimos o Gitflow, então existem os seguintes tipos de branchs:
 - `master`: branch com a versão de estável mais atual do sistema (não commitar diretamente);
 - `develop`: branch para desenvolvimento do projeto, contendo a última versão instável
 - `feature/new-feature`: branch para desenvolvimento de uma funcionalidade específica
@@ -32,3 +32,6 @@ Quando um conjunto de funcionalidades razoável tiver sido desenvolvido, um dos 
 
 # Deploy
 O código da branch `develop` será usado para o deploy em `staging`. Já o da branch `master` será usado para o deploy que será apresentado ao cliente.
+
+# Referências
+- [Gitflow](https://br.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
